@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @mahafuzfaysal2104
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Cyber Security
-- 📫 How to reach me ...
+# 🔐 Cybersecurity Student
 
-<!---
-mahafuzfaysal2104/mahafuzfaysal2104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! This is Md Mahafuz Faysal, a student at Central Queensland University, Sydney.
+I'm passionate about cybersecurity, ethical hacking, and defending the digital world.  
+
+- 🛡️ Learning ethical hacking & penetration testing  
+- 💻 Tools: Kali Linux, Wireshark, Burp Suite, Nmap  
+- 📚 Studying for: CompTIA Security+, CEH  
+- 🔍 Exploring: Capture The Flag (CTF) challenges  
+- 🧠 Always learning, always hacking (ethically)!
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mahafuzfaysal2104/) | [Email](mdmahafuzfaysal@email.com)
